@@ -51,11 +51,10 @@ aside {
     height: 200px;
     background: #fff;
     border: 1px solid #eee;
-    right: 100px;
+    right: 350px;
     bottom: 315px;
     color: #777;
     position: fixed;
-    margin-right:300px;
 }
 header{
 	width:960px;
@@ -98,6 +97,18 @@ main{
 	height:500px;
 	background-color: #dddddd;
 }
+
 h1 {
-	
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	color:#777;
+}
+
+footer{
+	width: 960px;
+    height: 40px;
+    position: relative;
+    border-top: solid 5px #777;
+    background-color: #666;
+    text-align:center;
+    color:#ffffff;
 }
