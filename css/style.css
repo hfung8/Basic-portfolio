@@ -51,10 +51,11 @@ aside {
     height: 200px;
     background: #fff;
     border: 1px solid #eee;
-    right: 350px;
+    right: 325px;
     bottom: 315px;
     color: #777;
     position: fixed;
+    border: 1px solid #777;
 }
 header{
 	width:960px;
@@ -95,19 +96,21 @@ section{
 main{
 	width:960px;
 	height:500px;
-	background-color: #dddddd;
-}
+	background: url(../images/wov.png);
+}	
 
 h1 {
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
 	color:#777;
+	padding:10px;
+	border-bottom: solid 1px #777;
 }
 
 footer{
 	width: 960px;
     height: 40px;
     position: relative;
-    border-top: solid 5px #777;
+    border-top: solid 10px #777;
     background-color: #666;
     text-align:center;
     color:#ffffff;
